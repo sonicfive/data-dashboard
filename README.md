@@ -6,4 +6,7 @@ I am not entirely sure where will this end, but every post will for sure build f
 You can follow along by following my medium account [here](https://medium.com/@alex.orrantia "Alex Orrantia - Medium")
 
 ## Part I
-In part I cover setting up laravel, some front end bolerplate and generating some mock JSON data that we later render in a vue component
+We setup cover setting up laravel, some front end bolerplate and generating some mock JSON data that we later render in a vue component.
+
+## Part II
+We create a table based layout (with flexbox on tailwind css) for the data we generated in the previous part. We then use Vue to sort the results by column. 

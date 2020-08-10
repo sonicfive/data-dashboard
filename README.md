@@ -15,3 +15,5 @@ We create a table based layout (with flexbox on tailwind css) for the data we ge
 Datasets in the real world normally don't come as simple JSON objects. They come from a database storage, and the way to access them is through our backend.
 In this post we will focus on creating our data source and seeding it.
 
+## Part IV
+Learning to play with collection mehods to create some reports. 
